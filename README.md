@@ -22,18 +22,6 @@ The **Quiz Application Using Java** is designed to make learning and testing kno
 - **Build Tool:** Apache Ant
 - **Project Type:** Java Application
 
-## Project Structure
-
-```text
-Quiz-Application-Using-Java/
-│
-├── src/                  # Java source files
-├── build/                # Compiled output files
-├── nbproject/            # NetBeans project configuration
-├── build.xml             # Ant build configuration
-├── manifest.mf           # Application manifest
-└── README.md             # Project documentation
-```
 
 ## Learning Outcomes
 
