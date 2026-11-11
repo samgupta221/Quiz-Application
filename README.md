@@ -1,4 +1,4 @@
-# Quiz Application Using Java
+# Quiz Application
 
 A simple and interactive Quiz Application developed using Java. The application allows users to attempt quiz questions, select answers, and evaluate their performance based on their scores.
 
